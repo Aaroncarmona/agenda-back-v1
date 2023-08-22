@@ -141,6 +141,8 @@ CORS_ALLOWED_ORIGINS = [
     , "http://127.0.0.1:8080"
     , "https://agenda-back-v1.onrender.com"
     , "http://agenda-back-v1.onrender.com"
+    , "https://agenda-web-v1.onrender.com"
+    , "http://agenda-web-v1.onrender.com"
 ]
 
 CORS_ALLOW_METHODS = (
